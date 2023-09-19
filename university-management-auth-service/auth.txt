@@ -1,0 +1,11 @@
+#Admin
+email - admin@gmail.com
+id - A-00006
+phone - 01751040425
+
+#Faculty
+
+id - F-00003
+
+
+access token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJBLTAwMDA2Iiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjkzMjM3MTQ2LCJleHAiOjE2OTg0MjExNDZ9.YidP9lsNHdzaEonXpWFDw4h0oHYaBnSq7713V7iAOQk

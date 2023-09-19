@@ -1,0 +1,6 @@
+node_modules
+.env
+logs
+.husky
+.auth.txt
+prisma/migrations
